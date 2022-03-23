@@ -12,5 +12,5 @@ You can easily locate your game installation path using Steam:
 
 # Mod List
 
-## [Gameplay]()
-- **[PC Freecam]()** by Buckminsterfullerene ([download]())
+## [Quality Of Life](https://github.com/CyubeVR-Modding/cyubeVR-Mods/tree/main/Quality%20Of%20Life)
+- **[PC Freecam](https://github.com/CyubeVR-Modding/cyubeVR-Mods/blob/main/Quality%20Of%20Life/PCMovement__V1.zip)** by Buckminsterfullerene ([download](https://github.com/CyubeVR-Modding/cyubeVR-Mods/raw/main/Quality%20Of%20Life/PCMovement__V1.zip))
