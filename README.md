@@ -1,4 +1,4 @@
-# CyubeVR Mods
+# cyubeVR Mods
 
 A temporary repository until the Steam Workshop is updated to allow for mod sharing.
 
