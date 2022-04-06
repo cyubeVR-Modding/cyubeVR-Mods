@@ -16,5 +16,5 @@ You can easily locate your game installation path using Steam:
 - **[PC Freecam](https://github.com/CyubeVR-Modding/cyubeVR-Mods/blob/main/Quality%20Of%20Life/PCMovement__V1.zip)** by Buckminsterfullerene ([download](https://github.com/CyubeVR-Modding/cyubeVR-Mods/raw/main/Quality%20Of%20Life/PCMovement__V1.zip))
 
 ## [Gameplay](https://github.com/CyubeVR-Modding/cyubeVR-Mods/tree/main/Gameplay)
-- **[Any Size Animals](https://github.com/CyubeVR-Modding/cyubeVR-Mods/tree/main/Gameplay/10xAnimals__V1.zip)** by Buckminsterfullerene ([download](https://github.com/CyubeVR-Modding/cyubeVR-Mods/raw/main/Gameplay/10xAnimals__V1.zip))
+- **[Big Animals](https://github.com/CyubeVR-Modding/cyubeVR-Mods/tree/main/Gameplay/BigAnimals__V1.zip)** by Buckminsterfullerene ([download](https://github.com/CyubeVR-Modding/cyubeVR-Mods/raw/main/Gameplay/BigAnimals__V1.zip))
 - **[Enemies](https://github.com/CyubeVR-Modding/cyubeVR-Mods/tree/main/Gameplay/Ennemies__V1.zip)** by Nico ([download](https://github.com/CyubeVR-Modding/cyubeVR-Mods/raw/main/Gameplay/Ennemies__V1.zip))
