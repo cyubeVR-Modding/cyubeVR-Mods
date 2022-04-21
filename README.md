@@ -33,3 +33,5 @@ You can easily locate your game installation path using Steam:
 
 # Mod List
 
+## [Gameplay](https://github.com/CyubeVR-Modding/cyubeVR-Mods/tree/main/Gameplay)
+- **[Placeable Foliage](https://github.com/cyubeVR-Modding/cyubeVR-Mods/blob/8c845c84cd364b48b7145ce59bf10fd4e936302a/Gameplay/PlaceableFoliage.zip)** by Quill Inkwell ([download](https://github.com/cyubeVR-Modding/cyubeVR-Mods/blob/8c845c84cd364b48b7145ce59bf10fd4e936302a/Gameplay/PlaceableFoliage.zip))
