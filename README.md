@@ -37,5 +37,6 @@ You can easily locate your game installation path using Steam:
 - **[BlockFactory](https://github.com/cyubeVR-Modding/cyubeVR-Mods/blob/2aefd5601f472c09c2769d7111932552928dddca/Gameplay/BlockFactory_v01.zip)** by Sceptrex ([download](https://github.com/cyubeVR-Modding/cyubeVR-Mods/raw/main/Gameplay/BlockFactory_v01.zip))
 - **[cyubePainter](https://github.com/cyubeVR-Modding/cyubeVR-Mods/blob/main/Gameplay/CyubePainter.zip)** by Quill Inkwell ([download](https://github.com/cyubeVR-Modding/cyubeVR-Mods/raw/main/Gameplay/CyubePainter.zip))
 - **[Digging Mod](https://github.com/cyubeVR-Modding/cyubeVR-Mods/blob/main/Gameplay/DiggingMod_v0.2.zip)** by Albertbz ([download](https://github.com/cyubeVR-Modding/cyubeVR-Mods/raw/main/Gameplay/DiggingMod_v0.2.zip))
+- **[Pixie Hunt](https://github.com/cyubeVR-Modding/cyubeVR-Mods/blob/830844dd74d95fef0552a496f360ae95bcfe453b/Gameplay/PixieHunt.zip)** by Phildo ([download](https://github.com/cyubeVR-Modding/cyubeVR-Mods/raw/main/Gameplay/PixieHunt.zip))
 - **[Placeable Foliage](https://github.com/cyubeVR-Modding/cyubeVR-Mods/blob/8c845c84cd364b48b7145ce59bf10fd4e936302a/Gameplay/PlaceableFoliage.zip)** by Quill Inkwell ([download](https://github.com/cyubeVR-Modding/cyubeVR-Mods/raw/main/Gameplay/PlaceableFoliage.zip))
 
