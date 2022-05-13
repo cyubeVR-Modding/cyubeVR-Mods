@@ -40,3 +40,5 @@ You can easily locate your game installation path using Steam:
 - **[Pixie Hunt](https://github.com/cyubeVR-Modding/cyubeVR-Mods/blob/830844dd74d95fef0552a496f360ae95bcfe453b/Gameplay/PixieHunt.zip)** by Phildo ([download](https://github.com/cyubeVR-Modding/cyubeVR-Mods/raw/main/Gameplay/PixieHunt.zip))
 - **[Placeable Foliage](https://github.com/cyubeVR-Modding/cyubeVR-Mods/blob/8c845c84cd364b48b7145ce59bf10fd4e936302a/Gameplay/PlaceableFoliage.zip)** by Quill Inkwell ([download](https://github.com/cyubeVR-Modding/cyubeVR-Mods/raw/main/Gameplay/PlaceableFoliage.zip))
 
+## [Quality Of Life](https://github.com/CyubeVR-Modding/cyubeVR-Mods/tree/main/Quality%20Of%20Life)
+- **[Tape Measure](https://github.com/cyubeVR-Modding/cyubeVR-Mods/blob/f4b5dc83e589d3108c6f899602687246adc7a813/Quality%20Of%20Life/Tape%20Measure.zip)** by Quill Inkwell ([download](https://github.com/cyubeVR-Modding/cyubeVR-Mods/raw/main/Quality%20Of%20Life/Tape%20Measure.zip))
