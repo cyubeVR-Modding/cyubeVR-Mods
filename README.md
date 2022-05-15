@@ -34,7 +34,7 @@ You can easily locate your game installation path using Steam:
 # Mod List
 
 ## [Gameplay](https://github.com/CyubeVR-Modding/cyubeVR-Mods/tree/main/Gameplay)
-- **[BlockFactory](https://github.com/cyubeVR-Modding/cyubeVR-Mods/blob/2aefd5601f472c09c2769d7111932552928dddca/Gameplay/BlockFactory_v01.zip)** by Sceptrex ([download](https://github.com/cyubeVR-Modding/cyubeVR-Mods/raw/main/Gameplay/BlockFactory_v01.zip))
+- **[Block Factory](https://github.com/cyubeVR-Modding/cyubeVR-Mods/blob/2aefd5601f472c09c2769d7111932552928dddca/Gameplay/BlockFactory_v01.zip)** by Sceptrex ([download](https://drive.google.com/file/d/1gDayy3SHw1--_Uvx-wCIpoQocU2C9Kli/view?usp=sharing))
 - **[Cloud Walker](https://github.com/cyubeVR-Modding/cyubeVR-Mods/blob/6ffe699318c33e9acdce8f207c4acced078120b5/Gameplay/CloudWalker.zip)** by Quill Inkwell ([download](https://github.com/cyubeVR-Modding/cyubeVR-Mods/raw/main/Gameplay/CloudWalker.zip))
 - **[cyubePainter](https://github.com/cyubeVR-Modding/cyubeVR-Mods/blob/main/Gameplay/CyubePainter.zip)** by Quill Inkwell ([download](https://github.com/cyubeVR-Modding/cyubeVR-Mods/raw/main/Gameplay/CyubePainter.zip))
 - **[Digging Mod](https://github.com/cyubeVR-Modding/cyubeVR-Mods/blob/main/Gameplay/DiggingMod_v1.0.zip)** by Albertbz ([download](https://github.com/cyubeVR-Modding/cyubeVR-Mods/raw/main/Gameplay/DiggingMod_v1.0.zip))
