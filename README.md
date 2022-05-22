@@ -20,6 +20,7 @@ Quality Of Life
 Gameplay
 - **[Block Factory](https://github.com/cyubeVR-Modding/cyubeVR-Mods/blob/2aefd5601f472c09c2769d7111932552928dddca/Gameplay/BlockFactory_v01.zip)** by Sceptrex ([download](https://drive.google.com/file/d/1gDayy3SHw1--_Uvx-wCIpoQocU2C9Kli/view?usp=sharing))
 - **[Cloud Walker](https://github.com/cyubeVR-Modding/cyubeVR-Mods/blob/6ffe699318c33e9acdce8f207c4acced078120b5/Gameplay/CloudWalker.zip)** by Quill Inkwell ([download](https://github.com/cyubeVR-Modding/cyubeVR-Mods/raw/main/Gameplay/CloudWalker.zip))
+- **[cyubeGate](https://drive.google.com/file/d/1qBa3fLHD5NZwAjZYNMdJZADOe6gq0jMA/view?usp=sharing)** by Sceptrex ([download](https://drive.google.com/file/d/1qBa3fLHD5NZwAjZYNMdJZADOe6gq0jMA/view?usp=sharing))
 - **[cyubePainter](https://github.com/cyubeVR-Modding/cyubeVR-Mods/blob/main/Gameplay/CyubePainter.zip)** by Quill Inkwell ([download](https://github.com/cyubeVR-Modding/cyubeVR-Mods/raw/main/Gameplay/CyubePainter.zip))
 - **[Day Clock](https://drive.google.com/file/d/1P9CAPBnwJwmKsF_r0l4ZnY4RYqShL8Zi/view?usp=sharing)** by Sceptrex ([download](https://drive.google.com/file/d/1P9CAPBnwJwmKsF_r0l4ZnY4RYqShL8Zi/view?usp=sharing))
 - **[Digging Mod](https://github.com/cyubeVR-Modding/cyubeVR-Mods/blob/main/Gameplay/DiggingMod_v1.0.zip)** by Albertbz ([download](https://github.com/cyubeVR-Modding/cyubeVR-Mods/raw/main/Gameplay/DiggingMod_v1.0.zip))
