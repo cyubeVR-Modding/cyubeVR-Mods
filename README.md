@@ -16,6 +16,7 @@ Gameplay
 Quality Of Life
 - **[Tape Measure](https://github.com/cyubeVR-Modding/cyubeVR-Mods/blob/f4b5dc83e589d3108c6f899602687246adc7a813/Quality%20Of%20Life/Tape%20Measure.zip)** by Quill Inkwell ([download](https://github.com/cyubeVR-Modding/cyubeVR-Mods/raw/main/Quality%20Of%20Life/Tape%20Measure.zip))
 - **[Time Control](https://github.com/cyubeVR-Modding/cyubeVR-Mods/blob/e02bc39a4eb02bb5d1395673deaefa256b911de8/Quality%20Of%20Life/TimeControl.zip)** by Quill Inkwell ([download](https://github.com/cyubeVR-Modding/cyubeVR-Mods/raw/main/Quality%20Of%20Life/TimeControl.zip))
+- **[Torch Storage](https://drive.google.com/file/d/1gmuzVQNhuBJTvoHCGSQKjx62IrViGzra/view?usp=sharing)** by Sceptrex ([download](https://drive.google.com/file/d/1gmuzVQNhuBJTvoHCGSQKjx62IrViGzra/view?usp=sharing))
 
 Gameplay
 - **[Block Factory](https://github.com/cyubeVR-Modding/cyubeVR-Mods/blob/2aefd5601f472c09c2769d7111932552928dddca/Gameplay/BlockFactory_v01.zip)** by Sceptrex ([download](https://drive.google.com/file/d/1gDayy3SHw1--_Uvx-wCIpoQocU2C9Kli/view?usp=sharing))
