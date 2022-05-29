@@ -21,9 +21,9 @@ Quality Of Life
 Gameplay
 - **[Block Factory](https://drive.google.com/file/d/1iJFGlDbkZzbZaXsnhTID9DP9jN3p-sSS/view?usp=sharing)** by Sceptrex ([download](https://drive.google.com/file/d/1iJFGlDbkZzbZaXsnhTID9DP9jN3p-sSS/view?usp=sharing))
 - **[Cloud Walker](https://github.com/cyubeVR-Modding/cyubeVR-Mods/blob/6ffe699318c33e9acdce8f207c4acced078120b5/Gameplay/CloudWalker.zip)** by Quill Inkwell ([download](https://github.com/cyubeVR-Modding/cyubeVR-Mods/raw/main/Gameplay/CloudWalker.zip))
-- **[cyubeGate](https://drive.google.com/file/d/1nBp1dPxqzEmxlslCRBNyUZDwi-MAFONa/view?usp=sharing)** by Sceptrex ([download](https://drive.google.com/file/d/1nBp1dPxqzEmxlslCRBNyUZDwi-MAFONa/view?usp=sharing))
+- **[cyubeGate](https://drive.google.com/file/d/16DlrdVUuCfly4t0q5gwjWuhFi_nLhKNm/view?usp=sharing)** by Sceptrex ([download](https://drive.google.com/file/d/16DlrdVUuCfly4t0q5gwjWuhFi_nLhKNm/view?usp=sharing))
 - **[cyubePainter](https://github.com/cyubeVR-Modding/cyubeVR-Mods/blob/main/Gameplay/CyubePainter.zip)** by Quill Inkwell ([download](https://github.com/cyubeVR-Modding/cyubeVR-Mods/raw/main/Gameplay/CyubePainter.zip))
-- **[Day Clock](https://drive.google.com/file/d/103-azDmBA-I1qmUm7nDz6XLqWAwmHvtI/view?usp=sharing)** by Sceptrex ([download](https://drive.google.com/file/d/103-azDmBA-I1qmUm7nDz6XLqWAwmHvtI/view?usp=sharing))
+- **[Day Clock](https://drive.google.com/file/d/1HuLeDN2vSm0AvWvpJm0ueKt1DAHI9TkX/view?usp=sharing)** by Sceptrex ([download](https://drive.google.com/file/d/1HuLeDN2vSm0AvWvpJm0ueKt1DAHI9TkX/view?usp=sharing))
 - **[Digging Mod](https://github.com/cyubeVR-Modding/cyubeVR-Mods/blob/main/Gameplay/DiggingMod_v1.0.zip)** by Albertbz ([download](https://github.com/cyubeVR-Modding/cyubeVR-Mods/raw/main/Gameplay/DiggingMod_v1.0.zip)) **Not currently compatible with the game**
 - **[Flying Platform](https://drive.google.com/file/d/1xVkk4VpLXEtzgneWD9ZG5kNEZD4KsFza/view?usp=sharing)** by Sceptrex ([download](https://drive.google.com/file/d/1xVkk4VpLXEtzgneWD9ZG5kNEZD4KsFza/view?usp=sharing))
 - **[Pixie Hunt](https://github.com/cyubeVR-Modding/cyubeVR-Mods/blob/830844dd74d95fef0552a496f360ae95bcfe453b/Gameplay/PixieHunt.zip)** by Phildo ([download](https://github.com/cyubeVR-Modding/cyubeVR-Mods/raw/main/Gameplay/PixieHunt.zip))
