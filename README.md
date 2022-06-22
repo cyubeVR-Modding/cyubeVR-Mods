@@ -1,6 +1,6 @@
 # cyubeVR Mods
 
-A temporary repository until the Steam Workshop is updated to allow for mod sharing.
+A list of cyubeVR mods, an alternative to using the Steam Workshop way to download them.
 
 # UE4 Mods List
 
