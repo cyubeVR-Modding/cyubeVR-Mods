@@ -35,11 +35,11 @@ Gameplay
 
 # UE4 Mods How to install 
 
-Simply unpack the mod.zip into `[GameInstallDirectory]/cyubeVR/Mods/UE4Mods/` and load the game. If there is a readme in the zip with different installation steps, follow those.
+Simply unpack the mod.zip into `[GameInstallDirectory]/cyubeVR/Mods/ModFolders/` and load the game. If there is a readme in the zip with different installation steps, follow those.
 
 # Voxel API Mods How to install
 
-Simply unpack the mod.zip into `[GameInstallDirectory]/cyubeVR/Mods/` and load the game. If there is a readme in the zip with different installation steps, follow those.
+Simply unpack the mod.zip into `[GameInstallDirectory]/cyubeVR/Mods/ModFolders` and load the game. If there is a readme in the zip with different installation steps, follow those.
 
 # How to find the GameInstallDirectory?
 
