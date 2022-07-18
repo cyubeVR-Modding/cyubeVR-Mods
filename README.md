@@ -30,9 +30,9 @@ Gameplay
 - **[Flying Platform](https://drive.google.com/file/d/1F--k1om-uwi-Pv-8UifyB-EOdjFq4SW5/view?usp=sharing)** by Sceptrex ([download](https://drive.google.com/file/d/1F--k1om-uwi-Pv-8UifyB-EOdjFq4SW5/view?usp=sharing))
 - **[Pixie Hunt](https://github.com/cyubeVR-Modding/cyubeVR-Mods/blob/830844dd74d95fef0552a496f360ae95bcfe453b/Gameplay/PixieHunt.zip)** by Phildo ([download](https://github.com/cyubeVR-Modding/cyubeVR-Mods/raw/main/Gameplay/PixieHunt.zip))
 - **[Placeable Foliage](https://github.com/cyubeVR-Modding/cyubeVR-Mods/blob/8c845c84cd364b48b7145ce59bf10fd4e936302a/Gameplay/PlaceableFoliage.zip)** by Quill Inkwell ([download](https://github.com/cyubeVR-Modding/cyubeVR-Mods/raw/main/Gameplay/PlaceableFoliage.zip))
-- **[Sleep Altar](https://sites.google.com/view/retrocitycenter/cyubevr/api-blocks#h.wmfa73ya3d23)** by Kingtut 101 ([download](https://sites.google.com/view/retrocitycenter/cyubevr/api-blocks#h.wmfa73ya3d23))
-- **[Stone Generator](https://sites.google.com/view/retrocitycenter/cyubevr/api-blocks#h.yikg7tnx56ju)** by Kingtut 101 ([download](https://sites.google.com/view/retrocitycenter/cyubevr/api-blocks#h.yikg7tnx56ju))
-- **[Upblock](https://sites.google.com/view/retrocitycenter/cyubevr/api-blocks#h.tybvhxm5tnzb)** by Kingtut 101 ([download](https://sites.google.com/view/retrocitycenter/cyubevr/api-blocks#h.tybvhxm5tnzb))
+- **[Sleep Altar](https://github.com/KINGTUT10101/Kingtut-101s-cyubeVR-Mods/tree/main/SleepAltar)** by Kingtut 101 ([download](https://github.com/KINGTUT10101/Kingtut-101s-cyubeVR-Mods/tree/main/SleepAltar))
+- **[Stone Generator](https://github.com/KINGTUT10101/Kingtut-101s-cyubeVR-Mods/tree/main/StoneGenerator)** by Kingtut 101 ([download](https://github.com/KINGTUT10101/Kingtut-101s-cyubeVR-Mods/tree/main/StoneGenerator))
+- **[Upblock](https://github.com/KINGTUT10101/Kingtut-101s-cyubeVR-Mods/tree/main/Upblock)** by Kingtut 101 ([download](https://github.com/KINGTUT10101/Kingtut-101s-cyubeVR-Mods/tree/main/Upblock))
 
 # UE4 Mods How to install 
 
