@@ -10,7 +10,7 @@ Quality Of Life
 
 Gameplay
 - **[Big Animals](https://github.com/CyubeVR-Modding/cyubeVR-Mods/tree/main/Gameplay/BigAnimals__V1.zip)** by Buckminsterfullerene ([download](https://github.com/CyubeVR-Modding/cyubeVR-Mods/raw/main/Gameplay/BigAnimals__V1.zip))
-- **[Enemies](https://github.com/CyubeVR-Modding/cyubeVR-Mods/tree/main/Gameplay/Ennemies__V1.zip)** by Nico ([download](https://github.com/CyubeVR-Modding/cyubeVR-Mods/raw/main/Gameplay/Ennemies__V1.zip))
+- **[Enemies](https://steamcommunity.com/sharedfiles/filedetails/?id=2821687728)** by Nico ([download](https://steamcommunity.com/sharedfiles/filedetails/?id=2821687728))
 
 # VoxelAPI Mods List
 
