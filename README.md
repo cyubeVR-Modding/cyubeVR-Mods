@@ -28,7 +28,7 @@ Gameplay
 - **[Day Clock](https://drive.google.com/file/d/1fBrV0uk1F0K9WnWKJaojUdYLeMPrabm1/view?usp=sharing)** by Sceptrex ([download](https://drive.google.com/file/d/1fBrV0uk1F0K9WnWKJaojUdYLeMPrabm1/view?usp=sharing))
 - **[Digging Mod](https://github.com/Albertbz/cyubeVR-DiggingMod/releases)** by Albertbz
 - **[Flying Platform](https://drive.google.com/file/d/1F--k1om-uwi-Pv-8UifyB-EOdjFq4SW5/view?usp=sharing)** by Sceptrex ([download](https://drive.google.com/file/d/1F--k1om-uwi-Pv-8UifyB-EOdjFq4SW5/view?usp=sharing))
-- **[OneBlock] (https://github.com/Albertbz/cyubeVR-OneBlock/releases)** by Albertbz
+- **[OneBlock](https://github.com/Albertbz/cyubeVR-OneBlock/releases)** by Albertbz
 - **[Pixie Hunt](https://github.com/cyubeVR-Modding/cyubeVR-Mods/blob/830844dd74d95fef0552a496f360ae95bcfe453b/Gameplay/PixieHunt.zip)** by Phildo ([download](https://github.com/cyubeVR-Modding/cyubeVR-Mods/raw/main/Gameplay/PixieHunt.zip))
 - **[Placeable Foliage](https://github.com/cyubeVR-Modding/cyubeVR-Mods/blob/8c845c84cd364b48b7145ce59bf10fd4e936302a/Gameplay/PlaceableFoliage.zip)** by Quill Inkwell ([download](https://github.com/cyubeVR-Modding/cyubeVR-Mods/raw/main/Gameplay/PlaceableFoliage.zip))
 - **[Sleep Altar](https://github.com/KINGTUT10101/Kingtut-101s-cyubeVR-Mods/tree/main/SleepAltar)** by Kingtut 101 ([download](https://github.com/KINGTUT10101/Kingtut-101s-cyubeVR-Mods/tree/main/SleepAltar))
